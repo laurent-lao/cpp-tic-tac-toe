@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/laurentlao/CLionProjects/Learning-Cpp/Tic-tac-toe/Board.cpp
+Board.h
+/Users/laurentlao/CLionProjects/Learning-Cpp/Tic-tac-toe/Board.h
+iostream
+-
+
+/Users/laurentlao/CLionProjects/Learning-Cpp/Tic-tac-toe/Board.h
+iostream
+-
+
